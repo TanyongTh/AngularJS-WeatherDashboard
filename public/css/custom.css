@@ -1,0 +1,41 @@
+
+body {
+    background-color: #eee;
+}
+/*
+.navbar navbar-default .container-fluid{
+    background-color: white;
+}
+*/
+.navbar-header .navbar-brand {
+    color: black;
+}
+.container {
+    background-color: white;
+/*
+    border: #428bca 1px solid;
+    border-radius: 2px;
+*/
+}
+
+.weather-current {
+    margin-top: 20px;
+    margin-left: 18px;
+}
+
+.cities {
+    margin-top: 20px;
+}
+
+.weather-controls {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.forecast {
+    padding-left: 20px;
+}
+
+.forecast-list {
+    margin-top: 20px;
+}
